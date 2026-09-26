@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+python-docx
+sentence-transformers #generate embeddings
+chromadb #store/search vectors
+langchain
+langchain-google-genai
+python-dotenv
+sqlmodel
+langchain-text-splitters
+pytest
+httpx
